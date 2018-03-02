@@ -1,0 +1,216 @@
+
+
+
+.bg-dark{
+    background-color:#474e5d!important;
+ }
+ .nav-link{
+    color:white!important;
+    margin-right:10px;
+    letter-spacing:2px;
+ }
+ .col-9.maincol {
+    background: url('img/img9.jpg')no-repeat center center;
+    height:300px;
+    
+    
+ }
+ .col-3.maincol {
+    background: url('img/Versilia.jpg')no-repeat center center;
+ }
+ div.col.navcol {
+    padding:0px;
+ }
+
+ #jumbonmain {
+     background: none;
+     text-align: center;
+     color: #fff;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     letter-spacing: 2px;
+     opacity: .9;
+    }
+
+    #locations {
+        background-color:#474e5d;
+        height: 200px;
+        width: 100%;
+        padding: 0px;
+    }
+
+    .row.subheaderbar {
+     text-align: center;
+     color: #fff;
+     background-color: #474e5d;
+     padding: 20px; 
+    }
+
+    .col-7.locationscolodd {
+        padding-top: 25px;
+        background-color:#fff;
+        height: 250px;
+        line-height: 17px;
+    }
+
+    .btn {
+        background-color:#474e5d!important;
+        color: #fff;
+    } 
+
+
+    .col-5.locationscolodd {
+      
+       background: url('img/img6.jpeg') no-repeat center;
+        background-size: cover;
+        
+    }
+      
+     p.locationheader {
+        font-size: 20px;
+     }
+
+     .col-7.locationscolodd2 {
+        padding-top: 25px;
+        background-color:#fff;
+        height: 250px;
+        line-height: 17px;
+    }
+
+    .btn {
+        background-color:#474e5d!important;
+        color: #fff;
+    } 
+
+
+    .col-5.locationscolodd2 {
+        height: 250px;
+        background-image: url('img/img8.jpeg');
+        background-size: cover;
+        
+    }
+
+    .col-7.locationscoleven {
+        margin-top: 20px;
+        background-color:#474e5d!important;
+        height: 250px;
+        line-height: 17px;
+    }
+
+    #btneven {
+        background-color:#fff!important;
+        color: #474e5d;
+    } 
+
+
+    .col-5.locationscoleven {
+        
+        background-image: url('img/img7.jpeg');
+        background-size: cover;
+        }
+
+    .row.locationsroweven {
+        background-color:#474e5d!important;
+        padding-left: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .row.locationsrowodd2 {
+        padding-right: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+
+    .row.locationsrowodd {
+        padding-right: 40px;
+        padding-top: 40px;
+        padding-bottom: 40px;
+    }
+    
+/* #pic1.col-4.checkercol {
+    background-image: url('img/img2.jpg');
+   
+    background-size: cover;
+}
+
+.row.checkerrow{
+    height: 300px;
+    margin-top: 55px;
+    margin-left: 20px;
+    margin-right: 20px;
+} */
+/* .col-4.checkercol {
+    
+    height: 300px;
+ 
+} */
+
+/* #textcheck.col-4.checkercol{
+    text-align: center;
+    margin-top: 35px;
+    color: #474e5d
+}
+
+#textcheck.col-4.checkercol p{
+    font-size: 13px;
+}
+
+#pic2.col-4.checkercol {
+    background-image: url('img/img3.jpg');
+    
+    background-size: cover;
+}
+
+.jumbo {
+background-color: #474e5d;
+text-align: center;
+opacity: 0.4;
+
+width: 300px;
+}
+
+#checker-text{
+    color: #fff;
+} */
+
+
+/* Checker  try */
+/* .spacerrow1{
+    
+} */
+.square {
+    float: left;
+    position: relative;
+    width: 30%;
+    padding-bottom: 30%; /* = width for a 1:1 aspect ratio */
+    background-size: cover;
+}
+.checkerrow{
+    justify-content: center;
+}
+#pic1 {
+    background: url('img/img2.jpg') no-repeat center center;
+   
+}
+#pic2 {
+    background: url('img/img3.jpg') no-repeat center center;
+}
+#pic3 {
+    background: url('img/img1.jpg') no-repeat center center;
+}
+#pic4 {
+    background: url('img/img4.jpg') no-repeat center center;
+}
+#pic5 {
+    background: url('img/img5.jpg') no-repeat center center;
+}
+
+/* #square-text{
+    padding-top: 200px;
+    text-align: center;
+    color: #474e5d;
+}
+
+#square-text p{
+    font-size: 12px;
+} */
